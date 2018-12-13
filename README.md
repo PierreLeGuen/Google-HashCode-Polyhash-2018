@@ -1,8 +1,6 @@
-# Projet d'algorithmique - Groupe P - Finale du Google Hash Code 2018
+# Projet d'algorithmique -  Finale du Google Hash Code 2018
 
 ![Logo équipe manhattan](logo_manhattan.png)
-
-* **Pandiculation**
 
 L'objectif de ce projet,  Poly#, est d'approfondir nos compétences en algorithmie, ainsi qu'en Python. PolyHash 2019 a lieu lors de notre semestre 5 à Polytech' Nantes, en formation initiale d'informatique durant 10 semaines.
 Dans ce projet, le but est d'optimiser le placement de batiments dans une grille en fonction de certaines caractéristiques de cette grille et de ces batiments.
